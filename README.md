@@ -22,22 +22,22 @@ The plan is divided into four weeks, focusing on different aspects of the librar
 - Day 13: Project 2 — Demographic Data Analysis
 - Day 14: Publish on GitHub (Project 2)
 ### Week 3 — Visualization with Matplotlib
-Day 15: Basic Plots (plot(), scatter(), bar(), hist(), customization)
-Day 16: Statistical Plots (boxplot(), pie(), violinplot())
-Day 17: Subplots and Figures (plt.figure(), plt.subplot(), fig, ax = plt.subplots())
-Day 18: Saving Plots (plt.savefig(), resolution, formats)
-Day 19: Project 3 — Real-World Dataset Visualization
-Day 20: Refactor Project 3
-Day 21: Publish on GitHub (Project 3)
+- Day 15: Basic Plots (plot(), scatter(), bar(), hist(), customization)
+- Day 16: Statistical Plots (boxplot(), pie(), violinplot())
+- Day 17: Subplots and Figures (plt.figure(), plt.subplot(), fig, ax = plt.subplots())
+- Day 18: Saving Plots (plt.savefig(), resolution, formats)
+- Day 19: Project 3 — Real-World Dataset Visualization
+- Day 20: Refactor Project 3
+- Day 21: Publish on GitHub (Project 3)
 ### Week 4 — Integration with ML + Portfolio Refinement
-Day 22: Pandas → NumPy Conversion (.to_numpy(), .values)
-Day 23: Handling for ML (Normalization, standardization, .corr())
-Day 24: Real-world dataset for preprocessing
-Day 25: Creating Utility Functions (Automate tasks)
-Day 26: Final Project — Complete EDA + Preprocessing
-Day 27–28: Refine the 4 Projects
-Day 29: Complete Publication
-Day 30: Post on LinkedIn / Instagram
+- Day 22: Pandas → NumPy Conversion (.to_numpy(), .values)
+- Day 23: Handling for ML (Normalization, standardization, .corr())
+- Day 24: Real-world dataset for preprocessing
+- Day 25: Creating Utility Functions (Automate tasks)
+- Day 26: Final Project — Complete EDA + Preprocessing
+- Day 27–28: Refine the 4 Projects
+- Day 29: Complete Publication
+- Day 30: Post on LinkedIn / Instagram
 
 ## 🛠️ Technologies Used
 - Python
