@@ -1,7 +1,8 @@
 # Machine-Learning-Python-Basics
+## 🎯 Objective
 A foundational guide to Python for Machine Learning, covering NumPy, Pandas, and Matplotlib — essential tools for data manipulation, analysis, and visualization in real-world ML workflows.
 
-## Roadmap
+## 🗓️ Roadmap
 The plan is divided into four weeks, focusing on different aspects of the libraries and culminating in a comprehensive final project.
 
 ### Week 1 - Fundamentals and Syntax
